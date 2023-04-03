@@ -1,0 +1,162 @@
+body {
+  background-color: #FFEDDA;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 70px;
+  line-height: 2;
+  color: #FF2442;
+  position: relative;
+  top: 50px;
+}
+
+h2 {
+  font-family: 'Kanit', sans-serif;
+  font-size: 50px;
+  color: #3DB2FF;
+  weight: normal
+}
+
+h3 {
+  font-family: 'Fira Sans', sans-serif;
+  font-size: 30px;
+  color: #FF2442;
+  margin: 0;
+}
+
+p {
+  font-size: 16px;
+  line-height: 2;
+}
+
+hr {
+  border-color: #454545;
+  border-style: dotted none none;
+  border-width: 6px;
+  margin-bottom: 100px;
+  margin-top: 100px;
+  width: 7%;
+}
+
+h1, p, div, body {
+  margin: 0px;
+}
+
+.top-container {
+  background-color: #FFB830;
+  padding-top: 100px;
+  height: 664px;
+}
+
+.middle-container {
+  background-color: #FFEDDA;
+}
+
+.bottom-container {
+  background-color: #FFB830;
+  height: 150px;
+}
+
+.headings_1 {
+  color: #FF2442;
+  position: relative;
+  top: 50px;
+  font-size: 20px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+}
+
+.contact-me {
+  margin-bottom: 100px;
+}
+
+.contact-message {
+  width: 50%;
+  margin: 40px auto 60px;
+}
+
+.footer-link {
+  position: relative;
+  top: 30px;
+  margin: 20px;
+  font-family: 'Kanit', sans-serif;
+  color: #FF2442;
+}
+
+.footer-link:hover {
+  color: #19376D;
+}
+
+.trade-mark {
+  position: relative;
+  top: 60px;
+  font-size: 14px;
+  color: white;
+}
+
+.btn {
+  background: #FFB830;
+  background-image: -webkit-linear-gradient(top, #FFB830, #e8cb48);
+  background-image: -moz-linear-gradient(top, #FFB830, #e8cb48);
+  background-image: -ms-linear-gradient(top, #FFB830, #e8cb48);
+  background-image: -o-linear-gradient(top, #FFB830, #e8cb48);
+  background-image: linear-gradient(to bottom, #FFB830, #e8cb48);
+  -webkit-border-radius: 11;
+  -moz-border-radius: 11;
+  border-radius: 11px;
+  font-family: 'Kanit', sans-serif;
+  color: #FF2442;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  position: relative;
+  top: 40px;
+}
+
+.btn:hover {
+  background: #3DB2FF;
+  text-decoration: none;
+}
+
+#computer{
+  height: 150px;
+  float: left;
+  margin-right: 30px;
+}
+
+#chillies {
+  height: 150px;
+  float: right;
+  margin-left: 30px;
+}
+
+#rocket {
+  height: 150px;
+  position: relative;
+  top: -200px;
+  left: -100px;
+}
+
+#cloud {
+  position: relative;
+  top: 50px;
+  left: 400px;
+}
+
+#mountain {
+  position: relative;
+  top: 3px;
+}
+
+#coder {
+  height: 150px;
+  margin-top: 200px;
+}
